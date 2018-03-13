@@ -6,7 +6,6 @@ Things you need in addition to this are a Zclassic directory - this will be crea
 
 A zclassic.conf file - here one to get you started (needs uploaded) - this should be placed in the Zclassic directory mentioned in the previous paragraph
 
-A ZcashParams directory, located at c:\users\\%username%\AppData\Roaming\Zclassic, with the Sprout proving and verifying keys - a one time download - if you already have these then no need to download again but make sure they're copied into the stated folder
+A ZcashParams directory, located at c:\users\\%username%\AppData\Roaming\Zclassic, with the Sprout proving and verifying keys - a one time download (from here) - if you already have these then no need to download again but make sure they're copied into the stated folder
 
-The blockchain which can be downloaded from here...(to be uploaded still)
-
+Optional, the blockchain which can be downloaded from here...(to be uploaded still) This is the quickest way to get your hands on the blockchain complete to 12th March 2018
